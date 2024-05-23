@@ -10,9 +10,9 @@ const makeItFunny = (str, n) => {
       }
       i++;
     }
-  
+    
     return result;
-  };
+};
 
 const text = 'I never look back';
 // Каждый третий элемент
